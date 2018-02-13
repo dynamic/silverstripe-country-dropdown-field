@@ -1,0 +1,43 @@
+{
+  "name": "dynamic/silverstripe-country-dropdown-field",
+  "description": "A simple country dropdown field for SilverStripe forms",
+  "authors": [
+    {
+      "name": "Dynamic",
+      "email": "dev@dynamicagency.com"
+    }
+  ],
+  "keywords": [
+    "silverstripe",
+    "dropdown",
+    "country",
+    "form",
+    "field"
+  ],
+  "type": "silverstripe-vendormodule",
+  "license": "BSD-3-Clause",
+  "require": {
+    "silverstripe/recipe-cms": "^1.0",
+    "silverstripe/vendor-plugin": "^1.0"
+  },
+  "require-dev": {
+    "phpunit/PHPUnit": "^5.7",
+    "squizlabs/php_codesniffer": "*"
+  },
+  "config": {
+    "process-timeout": 600
+  },
+  "autoload": {
+    "psr-4": {
+      "Dynamic\\CountryDropdownField\\": "src/",
+      "Dynamic\\CountryDropdownField\\Tests\\": "tests/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
