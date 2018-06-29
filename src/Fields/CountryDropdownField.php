@@ -15,10 +15,10 @@ use SilverStripe\i18n\Data\Intl\IntlLocales;
 class CountryDropdownField extends DropdownField
 {
     /**
-     * @var 
+     * @var
      */
     private $countries;
-    
+
     /**
      * @var array
      */
@@ -82,11 +82,11 @@ class CountryDropdownField extends DropdownField
     }
 
     /**
-     * @return array
+     * @return array Map of country code => name
      */
     protected function getDefaultCountriesList()
     {
-        return IntlLocales::singleton()->config()->get('countries');
+        return IntlLocales::singleton()->getCountries();
     }
 
     /**
