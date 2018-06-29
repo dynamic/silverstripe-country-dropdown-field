@@ -13,7 +13,7 @@ use SilverStripe\i18n\Data\Intl\IntlLocales;
 class CountryDropdownTest extends SapphireTest
 {
     /**
-     * 
+     *
      */
     public function testSetCountries()
     {
@@ -30,17 +30,17 @@ class CountryDropdownTest extends SapphireTest
     }
 
     /**
-     * 
+     *
      */
     public function testGetDefaultCountriesList()
     {
         $field = CountryDropdownField::create('Country');
 
-        $this->assertEquals(IntlLocales::singleton()->config()->get('countries'), $field->getCountries());
+        $this->assertEquals(IntlLocales::singleton()->getCountries(), $field->getCountries());
     }
 
     /**
-     * 
+     *
      */
     public function testSetSource()
     {
@@ -53,11 +53,11 @@ class CountryDropdownTest extends SapphireTest
     }
 
     /**
-     * 
+     *
      */
     public function testGetSource()
     {
-        $default = IntlLocales::singleton()->config()->get('countries');
+        $default = IntlLocales::singleton()->getCountries();
         $newSource = ['fo' => 'Foo'];
 
         $field = CountryDropdownField::create('Country');
@@ -70,7 +70,7 @@ class CountryDropdownTest extends SapphireTest
     }
 
     /**
-     * 
+     *
      */
     public function testSetDisabledItems()
     {
