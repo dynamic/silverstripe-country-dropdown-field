@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.2.1](https://github.com/dynamic/silverstripe-country-dropdown-field/tree/1.2.1) (2021-11-27)
+## [1.2.1](https://github.com/dynamic/silverstripe-country-dropdown-field/tree/1.2.1) (2021-11-28)
 
 [Full Changelog](https://github.com/dynamic/silverstripe-country-dropdown-field/compare/1.2.0...1.2.1)
 
