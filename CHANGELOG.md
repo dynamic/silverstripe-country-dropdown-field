@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.3](https://github.com/dynamic/silverstripe-country-dropdown-field/tree/1.2.3) (2021-11-28)
+* Replace CMS requirement by @christohill in https://github.com/dynamic/silverstripe-country-dropdown-field/pull/9
+
+## New Contributors
+* @christohill made their first contribution in https://github.com/dynamic/silverstripe-country-dropdown-field/pull/9
+
+**Full Changelog**: https://github.com/dynamic/silverstripe-country-dropdown-field/compare/1.2.2...1.2.3
+
 ## [1.2.1](https://github.com/dynamic/silverstripe-country-dropdown-field/tree/1.2.1) (2021-11-28)
 
 [Full Changelog](https://github.com/dynamic/silverstripe-country-dropdown-field/compare/1.2.0...1.2.1)
