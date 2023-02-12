@@ -21,7 +21,7 @@
         "silverstripe/framework": "^4 || ^5"
     },
     "require-dev": {
-        "silverstripe/recipe-testing": "^3"
+        "silverstripe/recipe-testing": "^2"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
