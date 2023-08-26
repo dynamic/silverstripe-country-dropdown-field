@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/dynamic/silverstripe-country-dropdown-field/tree/2.0.0) (2023-08-26)
+* Replace CMS requirement by @christohill in https://github.com/dynamic/silverstripe-country-dropdown-field/pull/9
+* CI initial workflow by @jsirish in https://github.com/dynamic/silverstripe-country-dropdown-field/pull/10
+* REFACTOR allow Silverstripe 5 by @jsirish in https://github.com/dynamic/silverstripe-country-dropdown-field/pull/11
+
+## New Contributors
+* @christohill made their first contribution in https://github.com/dynamic/silverstripe-country-dropdown-field/pull/9
+* @jsirish made their first contribution in https://github.com/dynamic/silverstripe-country-dropdown-field/pull/10
+
+**Full Changelog**: https://github.com/dynamic/silverstripe-country-dropdown-field/compare/1.2.2...2.0.0
+
 ## [2.0.0-alpha1](https://github.com/dynamic/silverstripe-country-dropdown-field/tree/2.0.0-alpha1) (2023-02-12)
 * CI initial workflow by @jsirish in https://github.com/dynamic/silverstripe-country-dropdown-field/pull/10
 * REFACTOR allow Silverstripe 5 by @jsirish in https://github.com/dynamic/silverstripe-country-dropdown-field/pull/11
