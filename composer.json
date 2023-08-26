@@ -38,10 +38,5 @@
             "silverstripe/recipe-plugin": true
         },
         "process-timeout": 600
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        }
     }
 }
