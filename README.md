@@ -1,11 +1,9 @@
 # Country Dropdown Field
 
-[![Sponsors](https://img.shields.io/badge/Sponsor-Dynamic-ff69b4?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/dynamic)
-
 A simple country dropdown field for SilverStripe forms.
 
 [![CI](https://github.com/dynamic/silverstripe-country-dropdown-field/actions/workflows/ci.yml/badge.svg)](https://github.com/dynamic/silverstripe-country-dropdown-field/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/dynamic/silverstripe-country-dropdown-field/branch/master/graph/badge.svg)](https://codecov.io/gh/dynamic/silverstripe-country-dropdown-field)
+[![Sponsors](https://img.shields.io/badge/Sponsor-Dynamic-ff69b4?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/dynamic)
 
 [![Latest Stable Version](https://poser.pugx.org/dynamic/silverstripe-country-dropdown-field/v/stable)](https://packagist.org/packages/dynamic/silverstripe-country-dropdown-field)
 [![Total Downloads](https://poser.pugx.org/dynamic/silverstripe-country-dropdown-field/downloads)](https://packagist.org/packages/dynamic/silverstripe-country-dropdown-field)
