@@ -2,7 +2,6 @@
 
 namespace Dynamic\CountryDropdownField\Fields;
 
-use SilverStripe\Dev\Debug;
 use SilverStripe\Forms\DropdownField;
 use SilverStripe\i18n\Data\Intl\IntlLocales;
 
@@ -15,7 +14,7 @@ use SilverStripe\i18n\Data\Intl\IntlLocales;
 class CountryDropdownField extends DropdownField
 {
     /**
-     * @var
+     * @var array
      */
     private $countries;
 
@@ -39,7 +38,6 @@ class CountryDropdownField extends DropdownField
      */
     public function __construct($name, $title = null, $source = [], $value = '', $form = null)
     {
-
         if (!empty($source)) {
             $this->setCountries($source);
         }

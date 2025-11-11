@@ -1,3 +1,11 @@
 npm-debug.log
 node_modules/
 .DS_Store
+
+# Composer
+/vendor/
+composer.lock
+
+# Generated files
+/public/
+/app/
