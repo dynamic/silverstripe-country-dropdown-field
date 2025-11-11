@@ -1,5 +1,7 @@
 # Country Dropdown Field
 
+[![Sponsors](https://img.shields.io/badge/Sponsor-Dynamic-ff69b4?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/dynamic)
+
 A simple country dropdown field for SilverStripe forms.
 
 [![CI](https://github.com/dynamic/silverstripe-country-dropdown-field/actions/workflows/ci.yml/badge.svg)](https://github.com/dynamic/silverstripe-country-dropdown-field/actions/workflows/ci.yml)
