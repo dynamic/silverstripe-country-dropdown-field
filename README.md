@@ -40,16 +40,6 @@ You can also supply a custom country list by passing a source array as the third
 - **Customizable Source**: Optional custom country list support
 - **Form Field Extension**: Extends SilverStripe's `DropdownField` for seamless integration
 
-## Upgrading from version 2
-
-Country Dropdown Field 3.0 is compatible with SilverStripe 6. Key changes:
-
-- Updated to SilverStripe CMS 6
-- Requires PHP 8.3 or higher
-- No breaking changes to API or functionality
-
-See the [SilverStripe 6 Upgrade Guide](https://docs.silverstripe.org/en/6/) for more details.
-
 ## Maintainers
 
  *  [Dynamic](https://www.dynamicagency.com) (<dev@dynamicagency.com>)
